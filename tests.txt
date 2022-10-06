@@ -1,0 +1,4 @@
+Now once we have verified that the Mapper 
+and Reducer are working fine. 
+Then we can deploy this code to the Hadoop 
+cluster or Amazon  EMR or azure hindsight
